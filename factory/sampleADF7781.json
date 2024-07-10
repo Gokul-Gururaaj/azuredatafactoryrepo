@@ -1,0 +1,9 @@
+{
+	"name": "sampleADF7781",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e1109d99-215c-4bed-a535-9fb01cf5d10c",
+		"tenantId": "d98e16c4-4ec4-4b35-ad39-b3d3da3e4972"
+	}
+}
